@@ -1,6 +1,6 @@
 # Character-Frequency_Project1
 문자 빈도
-<span style="color:red">강조3</span>
+- text in red
 
 실행 방법
 
