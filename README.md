@@ -1,7 +1,7 @@
 # Character-Frequency_Project1
 문자 빈도
 ```diff
-- text in red
+dsdfs in red
 + text in green
 ! text in orange
 # text in gray
