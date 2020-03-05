@@ -1,8 +1,6 @@
 # Character-Frequency_Project1
 문자 빈도
-```diff
-a text in blue
-```
+
 실행 방법
 
 cmd 창 실행
@@ -10,7 +8,6 @@ cmd 창 실행
 E:\C++\Project_1-Character-Frequency\Debug -> Project_1-Character-Frequency.exe ().txt ().txt ().txt ().txt (결과 파일).txt
 
 프로그램 설명
-
 ```diff
 -5개의 텍스트 파일이 있다. red
 ```
