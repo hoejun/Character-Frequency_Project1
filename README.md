@@ -12,7 +12,7 @@ E:\C++\Project_1-Character-Frequency\Debug -> Project_1-Character-Frequency.exe 
 프로그램 설명
 
 ```diff
--빨간 in red
+-5개의 텍스트 파일이 있다. in red
 ```
 5개의 텍스트 파일이 있다.
 
