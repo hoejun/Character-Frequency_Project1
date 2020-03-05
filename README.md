@@ -1,11 +1,5 @@
 # Character-Frequency_Project1
 문자 빈도
-```diff
-dsdfs in red
-+ text in green
-! text in orange
-# text in gray
-```
 
 실행 방법
 
@@ -15,6 +9,9 @@ E:\C++\Project_1-Character-Frequency\Debug -> Project_1-Character-Frequency.exe 
 
 프로그램 설명
 
+```diff
+5개의 텍스트 파일이 있다. text in red
+```
 5개의 텍스트 파일이 있다.
 
 각 파일 마다 임의 영어 문장(공백없는)을 작성한다.
