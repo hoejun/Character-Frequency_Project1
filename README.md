@@ -1,6 +1,11 @@
 # Character-Frequency_Project1
 문자 빈도
+```diff
 - text in red
++ text in green
+! text in orange
+# text in gray
+```
 
 실행 방법
 
